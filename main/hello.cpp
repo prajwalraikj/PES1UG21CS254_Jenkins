@@ -7,6 +7,5 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout<<"I have edited this code\n";
-  cout<<"Another change\n";
   return 0;
 }
