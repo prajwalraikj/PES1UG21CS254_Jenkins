@@ -27,5 +27,5 @@ pipeline {
         failure{
             error 'Pipeline Failed'
         }
-    }
+    
 }
